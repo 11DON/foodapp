@@ -1,0 +1,19 @@
+{
+    "@@locale": "ar",
+    "settingstitle": "صفحة الاعدادات",
+    "hometitle": "اهلا في تشكينن مارت",
+    "loginemail":"البريد الالكتروني",
+    "loginpassword": "كلمة السر",
+    "newuser": "مستخدم جديد؟",
+    "signup": "انشي جساب",
+    "forgotpassword": "نسيت كلمة السر",
+    "signin": "تسجيل الدحول",
+    "or": "او",
+    "orcontinueas": "سجل دخولك",
+    "guest": "ضيف",
+    "noproductsavalibel": "لا يوجد منتجات",
+    "productName": "المنتج",
+    "weight": "الوزن",
+    "price": "السعر",
+    "itemadded": "تمت الاضافة الي عربة التسوق"
+}

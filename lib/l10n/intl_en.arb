@@ -1,0 +1,19 @@
+{
+  "@@locale": "en",
+  "settingstitle": "Settings page",
+  "hometitle": "Welcome to ChickenMart",
+  "loginemail":"Email",
+  "loginpassword": "Password",
+  "newuser": "New User?",
+  "signup": "Sign Up",
+  "forgotpassword": "Forgot Password",
+  "signin": "Sign in",
+  "or": "Or",
+  "orcontinueas": "or continue as",
+  "guest": "Guest",
+  "noproductsavalibel": "No Products available",
+  "productName": "Product: ",
+  "weight": "Weight: ",
+  "price": "Price: ",
+  "itemadded": "Item added to cart"
+}

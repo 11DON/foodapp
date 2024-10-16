@@ -1,0 +1,6 @@
+
+
+class kConstants{
+ static const String  apikey='ZXlKaGJHY2lPaUpJVXpVeE1pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmpiR0Z6Y3lJNklrMWxjbU5vWVc1MElpd2ljSEp2Wm1sc1pWOXdheUk2T1RrM056WXhMQ0p1WVcxbElqb2lhVzVwZEdsaGJDSjkucVJ4bHRmcmRCSTZSdEVzUTFnbGU2azNzQlpRQktKTGtzXzczem1FamdPQTNQM2UtMm5aNXVzb3dGTmhUUF9nWjAwamhsWU5FRTBZY25vQWlteEhoOHc=';
+  static const int cardIntg=4841775;
+}

@@ -1,0 +1,58 @@
+name: f3
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  provider: ^6.1.2
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.19.0
+  firebase_auth: ^5.3.0
+  cloud_firestore: ^5.4.2
+  firebase_core: ^3.5.0
+  image_picker: ^1.1.2
+  firebase_storage: ^12.3.1
+  url_launcher: ^6.3.0
+  dio: ^5.7.0
+  awesome_dialog: ^3.2.1
+  geocoding: ^3.0.0
+  google_maps_flutter: ^2.9.0
+  locale_emoji_flutter: ^0.2.1
+  shared_preferences: ^2.3.2
+  location: ^6.0.2
+  flutter_map: ^7.0.0
+  latlong2: ^0.9.1
+  cached_network_image: ^3.0.0
+
+
+dev_dependencies:
+  flutter_native_splash: ^2.2.19
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  intl_utils: ^2.4.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - images/
+    - assets/fonts/
+
+  fonts:
+    - family: AguafinaScript
+      fonts:
+        - asset: assets/fonts/AguafinaScript-Regular.ttf
+flutter_intl:
+  enabled: true
