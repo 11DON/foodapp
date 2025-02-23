@@ -64,7 +64,7 @@ Allows users to select their delivery address using OpenStreetMap for accurate l
 ![map](https://github.com/user-attachments/assets/0195b8a1-6454-43c6-a8b2-af3a7de2b5da)
 
 ### 8. Settings Page
-Provides options for changing the app’s language, enabling dark mode, and managing account settings. *(Screenshot: languageSetting.jpg)*
+Provides options for changing the app’s language. *(Screenshot: languageSetting.jpg)*
 
 ![languageSetting](https://github.com/user-attachments/assets/e3ccd339-7694-4e7b-9d4a-701d0049ac2b)
 
