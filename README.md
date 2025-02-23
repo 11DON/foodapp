@@ -1,10 +1,13 @@
 # Food Delivery App
 
-![logo](https://github.com/user-attachments/assets/3016d0ed-2e57-4507-a9de-005f23afc0ee)
+![logo](https://github.com/user-attachments/assets/f7f65aa9-33eb-4051-9b42-40bb59fd979b)
+
 ## Overview
+
 The Food Delivery App is a mobile application that allows users to explore various food categories, place orders, and track deliveries. The app provides seamless navigation between categories, cart management, and multiple payment options, including Paymob integration.
 
 ## Features
+
 - **User Authentication**: Log in on one page, register on another, or continue as an anonymous user.
 - **Category-Based Navigation**: Browse food items categorized for easy access.
 - **Product Listing**: View detailed information about available food items.
@@ -15,6 +18,7 @@ The Food Delivery App is a mobile application that allows users to explore vario
 - **Notifications**: Receive updates about order status and promotions.
 
 ## Tech Stack
+
 - **Flutter** - Cross-platform mobile development
 - **Dart** - Programming language for Flutter
 - **Firebase** - Backend services for authentication and database
@@ -24,47 +28,53 @@ The Food Delivery App is a mobile application that allows users to explore vario
 ## Screenshots & Explanations
 
 ### 1. Login Page
-Users can log in with their credentials to access personalized features and order tracking.
+Users can log in with their credentials to access personalized features and order tracking. *(Screenshot: Login.jpg)*
 
-![Login](https://github.com/user-attachments/assets/60ef01b5-a674-4fdf-96cc-f95625ca7287)
+![Login](https://github.com/user-attachments/assets/0dcd83b8-3bd7-4365-8954-abca127d9897)
+
 ### 2. Register New User
-New users can create an account with an email and password to save preferences and track order history.
+New users can create an account with an email and password to save preferences and track order history. *(Screenshot: SignUp.jpg)*
 
-![SignUp](https://github.com/user-attachments/assets/04721728-e2bc-45e6-afd3-f1e00dd30bab)
-### 3. Continue as Anonymous User
-Users can choose to browse the app and place orders without signing up, ensuring quick access.
+![SignUp](https://github.com/user-attachments/assets/16e9fd15-9e87-486a-868d-a10c242652b0)
 
-![signupOption](https://github.com/user-attachments/assets/9736ff9f-26fb-4387-a7b4-74b43cfee5df)
+### 3. Signup Option Page
+Users can choose to register, log in, or continue as an anonymous user. *(Screenshot: signupOption.jpg)*
+
+![signupOption](https://github.com/user-attachments/assets/51ee1b33-a9ab-4a3c-8822-e74f6c51fc78)
+
 ### 4. Category Home Screen
-Displays various food categories with images, allowing users to explore different types of food.
+Displays various food categories with images, allowing users to explore different types of food. *(Screenshots: category.jpg, category2.jpg)*
 
-![category](https://github.com/user-attachments/assets/06fc5e9b-2f87-45c5-832f-2d7c9386a49f)
-![category](https://github.com/user-attachments/assets/308a0933-3413-4fe3-9f8e-4335efd3665d)
+![category2](https://github.com/user-attachments/assets/f6b96703-9756-4a2a-8223-396dd35254ce)
+![category](https://github.com/user-attachments/assets/57095780-239b-4a50-b165-f67a36ca6aa0)
+
 ### 5. Product List
-Shows all products under a selected category with details, images, and prices.
+Shows all products under a selected category with details, images, and prices. *(Screenshots: productList.jpg, product list2.jpg)*
 
-![product list2](https://github.com/user-attachments/assets/a5db76bb-59ce-42fa-b5ff-687837a8af93)
+![product list2](https://github.com/user-attachments/assets/13ea9a3d-37d5-4727-b944-9ddaaedda991)
+
 ### 6. Cart & Checkout
-Users can add food items to their cart, review their order, and proceed to checkout with the option to pay in cash or by card.
+Users can add food items to their cart, review their order, and proceed to checkout with the option to pay in cash or by card. *(Screenshot: checkout.jpg)*
 
-![checkout](https://github.com/user-attachments/assets/3c7feaba-e3fa-478a-8a2d-27fa99d397c4)
+![checkout](https://github.com/user-attachments/assets/1377a4ad-1437-41eb-b10d-bfd13a7659a9)
+
 ### 7. Map Integration
-Allows users to select their delivery address using OpenStreetMap for accurate location tracking.
+Allows users to select their delivery address using OpenStreetMap for accurate location tracking. *(Screenshot: map.jpg)*
 
-![map](https://github.com/user-attachments/assets/7a35ffaf-2b16-4c7b-a744-4c18077832c8)
+![map](https://github.com/user-attachments/assets/0195b8a1-6454-43c6-a8b2-af3a7de2b5da)
+
 ### 8. Settings Page
-Provides options for changing the app’s language.
+Provides options for changing the app’s language, enabling dark mode, and managing account settings. *(Screenshot: languageSetting.jpg)*
 
-![languageSetting](https://github.com/user-attachments/assets/ae04715c-8adc-4e89-ad71-04e1ed1ea90e)
+![languageSetting](https://github.com/user-attachments/assets/e3ccd339-7694-4e7b-9d4a-701d0049ac2b)
+
 ### 9. Paymob Payment Method
-Users can securely pay using Paymob’s online payment gateway for a seamless checkout experience.
+Users can securely pay using Paymob’s online payment gateway for a seamless checkout experience. *(Screenshot: cardPayment.jpg)*
 
-
-
-### 10. Notifications
-Users receive updates about their orders, promotions, and other important alerts.
+![cardPayment](https://github.com/user-attachments/assets/02858d28-b0df-472d-9e7a-b01dcf08efa5)
 
 ## Installation & Setup
+
 1. Clone the repository:
    ```sh
    git clone https://github.com/yourusername/food-delivery-app.git
@@ -83,8 +93,10 @@ Users receive updates about their orders, promotions, and other important alerts
    ```
 
 ## Contribution
+
 Contributions are welcome! Feel free to submit issues or pull requests to enhance the app.
 
 ## License
+
 MIT License - See `LICENSE` file for details.
 
