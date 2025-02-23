@@ -77,7 +77,7 @@ Users can securely pay using Paymob’s online payment gateway for a seamless ch
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/11don1/food-delivery-app.git
+   git clone https://github.com/11don/food-delivery-app.git
    ```
 2. Navigate to the project directory:
    ```sh
